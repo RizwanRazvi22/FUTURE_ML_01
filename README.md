@@ -6,6 +6,11 @@ The goal is to help stakeholders understand sales performance, identify trends, 
 
 The dashboard compares **actual sales vs forecasted sales** over time and provides high-level KPIs for performance monitoring.
 
+## Key Insights
+- Sales show a clear upward trend in the later months, indicating seasonal demand.
+- Forecasted sales closely follow historical patterns, suggesting stable model behavior.
+- Peak sales periods align with high-performing regions and product categories.
+
 ---
 
 ## Tools & Technologies
