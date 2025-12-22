@@ -37,20 +37,21 @@ The dashboard compares **actual sales vs forecasted sales** over time and provid
 ## Project Structure
 
 FUTURE_ML_01/
-├── dashboard/
-│   └── sales_forecasting_dashboard.pbix
-│
-├── images/
-│   ├── dashboard_overview.png
-│   ├── sales_forecast.png
-│   └── kpi_analysis.png
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── README.md
-└── .gitignore
+
+dashboard/
+sales_forecasting_dashboard.pbix
+
+images/
+dashboard_overview.png
+sales_forecast.png
+kpi_analysis.png
+
+data/
+raw/
+processed/
+
+README.md
+.gitignore
 
 
 
