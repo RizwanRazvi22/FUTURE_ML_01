@@ -80,7 +80,7 @@ README.md
 ## Future Improvements
 - Incorporate additional features such as region-wise forecasting.
 - Improve forecast accuracy using advanced time-series models.
-- Automate data refresh using Power BI Service.
+- Automate data refresh using Power BI Service
 
 ## Author
 Rizwan Ali Razvi  
